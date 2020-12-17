@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.carfi</groupId>
-    <artifactId>server-ribbon</artifactId>
+    <artifactId>service-ribbon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>server-ribbon</name>
     <description>Demo project for Spring Boot</description>
